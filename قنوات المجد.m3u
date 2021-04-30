@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,المجد
+https://streannlive-lh.akamaihd.net/i/almajdtv_1@367707/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619819966~acl=*~data=hdntl~hmac=ace786c8310bcf7e5b896fbae2330a992e422c8558e148f3f5eab20ac26ccb54
+#EXTINF:-1,المجد للقران الكريم
+https://streannlive-lh.akamaihd.net/i/quran_1@182137/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619873969~acl=*~data=hdntl~hmac=c5e9d7bcd69051d9f18cf5c8992161fca41933c57dc374a43d1cd5f8ecbdbd1c
+#EXTINF:-1,المجد العلمية
+https://streannlive-lh.akamaihd.net/i/science_1@310569/index_2_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619875719~acl=*~data=hdntl~hmac=208146d5e50595653ad178580eca7c5d66770ea2637e16ecbf93077aa2321a3b
+#EXTINF:-1,ماسة
+https://streannlive-lh.akamaihd.net/i/masah_1@140105/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619821219~acl=*~data=hdntl~hmac=8c44dcb88a02c52adbe33ba8f51a12f086e6e7e2390764fc857326a2e852048c
+#EXTINF:-1,الوثائقية
+https://streannlive-lh.akamaihd.net/i/documentary_1@133521/index_3_av-b.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619820659~acl=*~data=hdntl~hmac=b0c705bd2a0797601b92f480e3b49a9e28a09733bca94faafc322662cbc563a5
+#EXTINF:-1,الطبيعية
+https://streannlive-lh.akamaihd.net/i/nature_1@332507/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619820301~acl=*~data=hdntl~hmac=bd33c283ec3e1871be5fda54f86071f13df47be677915a372d98d691c5747117
+#EXTINF:-1,مجد
+https://streannlive-lh.akamaihd.net/i/majd_1@380073/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619873866~acl=*~data=hdntl~hmac=920572013cf5da73f729ba27de68c4a655d42caacec6d6967284e79317b110a5
+#EXTINF:-1,بسمة
+https://streannlive-lh.akamaihd.net/i/basma_1@345197/index_3_av-b.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619873729~acl=*~data=hdntl~hmac=090fa01c4aa8aefa0c027db9cc81a8e29a71048599ef0fab377bf88b38f6dc5a
+#EXTINF:-1,روضة
+https://streannlive-lh.akamaihd.net/i/rawda_1@309493/index_3_av-b.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619873793~acl=*~data=hdntl~hmac=6e49e83fb6acbe4ead45ffda0a4d7330792cba8f5b80796aac994cbee537abe6
+#EXTINF:-1,تغاريد
+https://streannlive-lh.akamaihd.net/i/taghreed_1@320329/index_3_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619873920~acl=*~data=hdntl~hmac=df87da28843d4bc53316f8f7f814068d2d2f1a6a96867ba354e1fdcaec5023e7
+#EXTINF:-1,دال
+https://streannlive-lh.akamaihd.net/i/dalhd_1@387212/index_3_av-b.m3u8?sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1619874101~acl=*~data=hdntl~hmac=f0e53068b3233f6288f2b624f50df0f5717723b398d1c658dee0b1665e230fc5
