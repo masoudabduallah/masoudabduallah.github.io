@@ -42,4 +42,13 @@
 
 ---
 
-© جميع الحقوق محفوظة لمطوري المشروع، برعاية [سبيل إسعاد](#).
+
+<div class="container">
+    <p style="font-size: 10px; width: 12px; height: 26px;">
+        جميع الحقوق متاحة لجميع المسلمين © 2025 
+        تم بناء هذا الموقع بواسطة&nbsp;
+        <a class="text-info" href="https://msaood.com" style="border-color: #28ABB9; filter: brightness(150%);">
+            مسعود عبدالله
+        </a>
+    </p>
+</div>
